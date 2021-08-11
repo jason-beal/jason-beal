@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Jason
-- 👀 I’m interested in climate science, renewable energy technology, and science communication
-- 🌱 I’m currently studying physics and religious studies at Macalester College
-- 💞️ I just finished an internship in NASA's Airborne Science Program
+- 🧠 I’m currently studying physics and religious studies at Macalester College
+- 🤔 I’m interested in climate science, renewable energy technology, and science communication
+- 🚀 I just finished an internship in NASA's Airborne Science Program
 - 📫 You can reach me at jbeal@macalester.edu
 
 <!---
